@@ -63,8 +63,8 @@ end
 # to make sure all above conditions output what you expect.
 
 cups_of_flour = 3
-has_sauce = true
-if cups_of_flour >= 2 and has_sauce 
+has_sauce = true 
+if cups_of_flour >= 2 && has_sauce 
   puts "I can Make pizza"
 else 
   puts "I Cannot make pizza"
